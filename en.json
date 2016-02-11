@@ -1,7 +1,7 @@
 {
   "languageSelector": {
     "message": "Language",
-    "context": "Language as a single word used in the langiage selection menu."
+    "context": "Language as a single word used in the language selection menu."
   },
   "chosenLanguage": {
     "message": "English",
@@ -9,7 +9,7 @@
   },
   "loginOrRegister": {
     "message": "Login or Register",
-    "context": "A button that when clicked allows a user to login or register."
+    "context": "A button that when clicked allows a user to login or register a new account."
   },
   "logout": {
     "message": "Logout",
@@ -17,7 +17,7 @@
   },
   "administration": {
     "message": "Administration",
-    "context": "A label for a button allowing a user to access the Administraion module."
+    "context": "A label for a button allowing a user to access the Administration module."
   },
   "linkAbout": {
     "message": "About",
@@ -25,7 +25,7 @@
   },
   "linkPrivacy": {
     "message": "Privacy",
-    "context": "The link text for the Privacy link."
+    "context": "The link text for the Privacy information link."
   },
   "linkAccessibility": {
     "message": "Accessibility",
